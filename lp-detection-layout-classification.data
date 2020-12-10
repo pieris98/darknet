@@ -1,2 +1,2 @@
 classes = 5
-names = lp-detection-layout-classification.names
+names = /darknet/lp-detection-layout-classification.names
